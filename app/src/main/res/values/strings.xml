@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">programaMATE</string>
+    <string name="TITULO">Bienvenidos a la calculadora</string>
+
+    <string name="ingreseAngulo">Ingrese el ángulo</string>
+    <string name="ingreseLado1">Ingrese el lado 1</string>
+    <string name="ingreseLado2">Ingrese el lado 2</string>
+    <string name="lado2">Lado 2:</string>
+    <string name="lado1">Lado 1:</string>
+    <string name="boton">Calcular</string>
+
+    <string name="resultados">Resultados</string>
+    <string name="per_metro">Perímetro:</string>
+    <string name="area">Área:</string>
+    <string name="seno">Seno:</string>
+    <string name="coseno">Coseno:</string>
+    <string name="angulo">Angulo:</string>
+
+
+    <string name="angulo_resultado">%s %.2f</string>
+    <string name="coseno_resultado">%s: %.2f</string>
+    <string name="seno_resultado">%s: %.2f</string>
+    <string name="area_resultado">%s: %.2f</string>
+    <string name="perimetro_resultado">%s: %.2f</string>
+
+</resources>
